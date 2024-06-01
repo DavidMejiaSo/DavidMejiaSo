@@ -72,7 +72,9 @@ if __name__ == '__main__':
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-⚠️ Note (May 2024): This is my official portfolio, currently under construction. Recently migrated and reorganized many projects, so pull requests are lower than usual.
+⚠️ Note (May 2024): This is my official portfolio, now consolidated and reorganized. Projects were previously scattered, and privacy policies restricted some uploads. Hence, pull requests are currently lower than usual.
+
+
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
